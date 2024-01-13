@@ -1,2 +1,2 @@
 # AppleGotTrolled 
-Installation meathod for iOS 17.0 
+Installation method for iOS 17.0 
