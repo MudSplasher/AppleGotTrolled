@@ -1,2 +1,2 @@
 # AppleGotTrolled 
-Installation method for iOS 17.0 
+TrollStore installation method for iOS 17.0 
